@@ -1,9 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <script data-ad-client="ca-pub-7933158210306273" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-    <link rel="shortcut icon" type="image/png" href="image/cloud_download.png"/>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -25,9 +22,8 @@
     <title>OpenLink</title>
   </head>
   <body>
-      <center><iframe src="https://duckduckgo.com/search.html?width=500&prefill=Searchbox&bgcolor=0b0b0b" style="overflow:hidden;margin:0;padding:0;width:558px;height:40px;" frameborder="0"></iframe></center>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand" href="#"><h5 class="btn btn-outline-success">Openlink<img src="image/cloud_download.png"></a></h5>
+          <a class="navbar-brand" href="#"><h5 class="btn btn-outline-success">Openlink</a></h5>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -40,7 +36,7 @@
         <a class="btn btn-outline-danger" href="#" title="Js">Js</a>
       </li>
       <li class="nav-item">
-        <a class="btn btn-outline-dark" href="#" title="Java">Java</a>
+        <a class="btn btn-outline-dark" href="https://www.it-swarm.dev/tr/java/" title="Java">Java</a>
       </li>
         <li class="nav-item">
         <a class="btn btn-outline-secondary" href="#" title="Sql">Sql</a>
@@ -52,7 +48,7 @@
         <a class="btn btn-outline-danger" href="#" title="C#">C#</a>
       </li>
         <li class="nav-item">
-        <a class="btn btn-outline-warning" href="#" title="C++">C++</a>
+        <a class="btn btn-outline-warning" href="https://yadi.sk/d/uopHvn_ejgfxkA" title="C++">C++</a>
       </li>   
      <li class="nav-item">
         <a class="btn btn-outline-secondary" href="#" title="NodeJs">NodeJs</a>
@@ -133,7 +129,7 @@
   <div class="card-footer text-muted">
  Design By Muammer   2020-2021 cc
   </div>
-</div>
+</div>  
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
